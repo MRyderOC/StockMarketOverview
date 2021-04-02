@@ -1,0 +1,11 @@
+name: market-overview
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - IPython
+  - ipywidgets
+  - seaborn
