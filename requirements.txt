@@ -6,3 +6,4 @@ IPython
 ipywidgets
 seaborn
 voila
+bs4
